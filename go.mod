@@ -1,4 +1,4 @@
-module www.github.com/noahra/web-service-gin
+module www.github.com/noahra/sample-gin-web-service
 
 go 1.23.4
 
